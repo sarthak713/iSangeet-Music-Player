@@ -1,5 +1,5 @@
 
-# Ideagram
+# iSangeet Android Music Player
 
 iSangeet is a Music Player Android Application. It is an extremely lightweight & easy to use Application which fetches audio files stored in your Android's Local Storage and gives you the ability to play and listen to your music non-stop.
 
