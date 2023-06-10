@@ -4,13 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFE3E3"
+    android:background="#FFFFFF"
     tools:context=".MainActivity">
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="700dp"
-        android:layout_height="900dp"
+        android:layout_width="600dp"
+        android:layout_height="750dp"
+        android:alpha="0.7"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
